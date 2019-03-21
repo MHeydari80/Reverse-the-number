@@ -1,2 +1,2 @@
 # Reverse-the-number
-321&lt;---نمایش برعکس عدد گرفته شده از کاربر 123
+The program is used to reverse the digits of a number.
