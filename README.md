@@ -1,2 +1,2 @@
 # Reverse-the-number
-The program is used to reverse the digits of a number.
+The program prompts the user to enter an integer and then reverse the digits.
