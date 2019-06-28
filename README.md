@@ -1,4 +1,4 @@
-# Reverse-the-number
+# Reverse Digits
 The program prompts the user to enter an integer and then reverse the digits.
 
 
